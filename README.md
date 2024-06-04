@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @PersistentPanda
-- 👀 I’m interested in ... Creating things
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @PersistentPanda AKA Daniel Nease
+- 👀 I’m interested in ... Creating things and breaking things
+- 🌱 I’m currently learning ... C programming and web dev basics
+- 💞️ I’m looking to collaborate on ... Can't think of anything right now
+- 📫 How to reach me ... you can reach me at dn@danielnease.com
 
 <!---
 PersistentPanda/PersistentPanda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
